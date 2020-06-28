@@ -2,3 +2,8 @@
 
 Peter Camenzind ist eine Rolle im Buch Peter Camenzind von Hermann
 Hesse.
+
+<h3 Eigenschaften> 
+[] Ehrlich
+[] Treu
+[] Liebevoll
